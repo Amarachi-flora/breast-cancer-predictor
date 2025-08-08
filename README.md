@@ -82,14 +82,8 @@ streamlit run app.py
 | Frameworks | Streamlit, Plotly, Scikit-learn          |
 | Dataset    | Wisconsin Breast Cancer (30 features)    |
 | Author     | Amarachi Florence Onyedinma-Nwamaghiro   |
-
-
-
-🌐 Live Demo
-
-👉 Click here to try the app: https://breast-cancer-predictor-7.streamlit.app/
-
-
+  
+  
 # Technologies Used
 
     - Python
@@ -115,9 +109,14 @@ streamlit run app.py
     🛠️ Submit issues or pull requests
 
 
-🙋🏽‍♀️ Contact
-     Amarachi Florence Onyedinma-Nwamaghiro
-     Connect on LinkedIn: https://www.linkedin.com/in/amarachi-florence/
+## 🌐 Live Demo
+
+👉 [Click here to try the app](https://breast-cancer-predictor-7.streamlit.app/)
+
+## 🙋🏽‍♀️ Contact
+
+**Amarachi Florence Onyedinma-Nwamaghiro**  
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/amarachi-florence/)
 
 
     - License
