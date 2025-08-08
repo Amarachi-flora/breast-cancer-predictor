@@ -58,6 +58,16 @@ An interactive web application built with **Python**, **Streamlit**, and **machi
 - ✔️ Sidebar FAQs and disclaimers
 - ✔️ Clean, educational UI
 
+
+## 🌐 Live Demo
+
+👉 [Click here to try the app](https://breast-cancer-predictor-7.streamlit.app/)
+
+## 🙋🏽‍♀️ Contact
+
+**Amarachi Florence Onyedinma-Nwamaghiro**  
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/amarachi-florence/)
+
 ---
 
 ##  Run the App Locally
@@ -107,17 +117,7 @@ streamlit run app.py
     🍴 Fork it and try your own improvements
 
     🛠️ Submit issues or pull requests
-
-
-## 🌐 Live Demo
-
-👉 [Click here to try the app](https://breast-cancer-predictor-7.streamlit.app/)
-
-## 🙋🏽‍♀️ Contact
-
-**Amarachi Florence Onyedinma-Nwamaghiro**  
-🔗 [Connect on LinkedIn](https://www.linkedin.com/in/amarachi-florence/)
-
+   
 
     - License
 
